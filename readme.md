@@ -16,7 +16,7 @@ Every step of the game will be outputed to the terminal with alive & dead impost
 
 
 
-﻿Input Format
+﻿**Input Format**
 
 X (Astronaut count)
 
@@ -32,7 +32,7 @@ S (Step count)
 
 
 
-﻿Output Format
+﻿**Output Format**
 
 #DeadImpostors (Dead impostors)
 
