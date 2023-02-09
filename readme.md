@@ -8,17 +8,15 @@ $ gcc -std=gnu99 -g among\_us.c -o main
 
 Text files input\_text\_0, input\_text\_1 .... input\_text\_3 are the arguments to be given to among\_us.c
 
-Example run: 
+﻿Example run: 
 
 ./main input\_text\_0
 
-Every step of the game will be outputed to the terminal with alive & dead impostors and astronauts. Also text files with the name of input\_text\_X\_out\_Y\_vis.txt where 
-
-X is the input file number and Y is the step name.
+Every step of the game will be outputed to the terminal with alive & dead impostors and astronauts. Also text files with the name of input\_text\_X\_out\_Y\_vis.txt where X is the input file number and Y is the step name.
 
 
 
-Input Format
+﻿Input Format
 
 X (Astronaut count)
 
@@ -34,7 +32,7 @@ S (Step count)
 
 
 
-Output Format
+﻿Output Format
 
 #DeadImpostors (Dead impostors)
 
